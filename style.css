@@ -24,7 +24,7 @@ body {
 }
 
 .header {
-  background: #306844;
+  background: #46b385;
   height: 100px;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
@@ -54,7 +54,7 @@ h2 {
 
 #player .far,
 #player .choice {
-  color: #306844;
+  color: #46b385;
   cursor: pointer;
 }
 
